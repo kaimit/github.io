@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Shunyu Yao
+name: Kai Xiang
 
 # Short bio or description (displayed in the header)
-description: 姚顺雨
+description: 向凯
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars0.githubusercontent.com/u/4877252?s=460&u=b7267190dec8cdb2c160b5aeae14320c95badd02&v=4
+avatar: https://avatars.githubusercontent.com/u/11983786?s=400&u=34060f7c1946cb6e22163b9373923817c3e7be20&v=4
 
 about: about/
 
@@ -20,17 +20,17 @@ about: about/
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: shunyuy@princeton.edu
-  googlescholar: qJBXk9cAAAAJ
+  email: xiangk07@gmail.com
+  googlescholar: vDtcytEAAAAJ
   facebook:
   flickr:
-  github: ysymyth
+  github: kaimit
   instagram:
-  linkedin: shunyu-yao-099a41115
+  linkedin: mitkaixiang
   pinterest:
   rss: # just type anything here for a working RSS icon
   blog: blog
-  twitter: ShunyuYao12
+  twitter: xiang_kai_MIT
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -41,11 +41,11 @@ footer-links:
 disqus: https-ysymyth-github-io-blog
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: G-99KFQSL7S3
+# google_analytics: G-99KFQSL7S3
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://ysymyth.github.io
+url: http://kaimit.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
