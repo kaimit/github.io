@@ -6,11 +6,14 @@ permalink: /index.html
 
 <img style="float:right; padding-left:10px" src="images/self.jpeg" width="220" height="220">
 
-I am a researcher at OpenAI. 
+I am studying Generative AI from technology to applications. 
+
+Previously, I was leading a team of engineers and PMs at Momenta.ai to build data infra and simulation for autonomous driving. Prior to Momenta.ai, I was a strategy consultant at ByteDance, spearheading the strategy for their cloud computing business. Before that, I was a venture capitalist at Xiang He Capital, focusing on AI and Infrastructure investments.
+
+I obtained my PhD from MIT advised by [Yet-Ming Chiang](https://dmse.mit.edu/faculty/yet-ming-chiang/) investigating phase transition mechanism of Lithium-ion batteries and my bachelor in Materials Science & Economics from Tsinghua University. 
 
 <!--Previously, I obtained my PhD from Princeton University advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/), and my bachelor's from Yao Class at Tsinghua University.
 -->
-I study agents.
 
 <!--
 In my work, I study agents.
@@ -32,104 +35,11 @@ In my life, I read, travel, rap, and play basketball.
 
 # Selected papers
 
-- **τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains** <br>
-  Shunyu Yao, Noah Shinn, Pedram Razavi, Karthik Narasimhan <br>
-    [paper](https://arxiv.org/abs/2406.12045) |
-    [repo](https://github.com/sierra-research/tau-bench) |
-    [blog](https://sierra.ai/blog/benchmarking-ai-agents)
+- **Mesoscopic phase transition kinetics in secondary particles of electrode-active materials in lithium-ion batteries** <br>
+  Kai Xiang, Kaiqi Yang, W Craig Carter, Ming Tang, Yet-Ming Chiang <br>
+    [paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.osti.gov/pages/servlets/purl/1538994) 
 
-- **Language Agents: From Next-Token Prediction to Digital Automation** <br>
-  Shunyu Yao <br>
-  PhD Thesis <br>
-    [paper](https://ysymyth.github.io/papers/Dissertation-finalized.pdf) |
-    [slides](https://ysymyth.github.io/papers/fpo.pdf) |
-    [talk](https://www.youtube.com/watch?v=zwfE6J2BIR4)
 
-- **SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models** <br>
-  John Yang\*, Carlos E. Jimenez\*, Alexander Wettig, Kilian Lieret, Shunyu Yao, Karthik Narasimhan, Ofir Press <br>
-    [paper](https://swe-agent.com/paper.pdf) |
-    [repo](https://github.com/princeton-nlp/SWE-agent) |
-    [tweet](https://twitter.com/jyangballin/status/1775114444370051582) |
-    [project](http://www.swe-agent.com)
-  
-
-- **SWE-bench: Can Language Models Resolve Real-World Github Issues?** <br>
-  Carlos E. Jimenez\*, John Yang\*, Alexander Wettig, Shunyu Yao, Kexin Pei, Ofir Press, Karthik Narasimhan <br>
-  ICLR 2024 (Oral) <br>
-    [paper](https://arxiv.org/abs/2310.06770) |
-    [repo](https://github.com/princeton-nlp/SWE-bench) |
-    [tweet](https://twitter.com/jyangballin/status/1711822353473437953) |
-    [project](http://www.swebench.com)
-
-- **Cognitive Architectures for Language Agents** <br>
-    Shunyu Yao\*, Theodore Sumers\*, Karthik Narasimhan, Thomas L. Griffiths <br>
-    TMLR 2024 <br>
-    [paper](https://arxiv.org/abs/2309.02427) |
-    [repo](https://github.com/ysymyth/awesome-language-agents) |
-    [tweet](https://twitter.com/ShunyuYao12/status/1699396834983362690)
-
-    
-<!--- **Embers of Autoregression: Understanding Large Language Models Through the Problem They are Trained to Solve** <br>
-    R. Thomas McCoy, Shunyu Yao, Dan Friedman, Matthew Hardy, Thomas L. Griffiths <br>
-    [paper](https://arxiv.org/abs/2309.13638) |
-    [repo](https://github.com/tommccoy1/embers-of-autoregression) |
-    [tweet](https://twitter.com/RTomMcCoy/status/1706664506913399198)
-   -->
-
-<!---- **Referral Augmentation for Zero-Shot Information Retrieval** <br>
-    Michael Tang, Shunyu Yao, John Yang, Karthik Narasimhan <br>
-    [paper](https://arxiv.org/abs/2305.15098) |
-    [repo](https://github.com/michaelwilliamtang/referral-augment) |
-    [tweet](https://twitter.com/ShunyuYao12/status/1661340889724100611)
-   -->
-   
-<!-- - **Collie: Systematic Construction of Constrained Text Generation Tasks** <br>
-    Shunyu Yao\*, Howard Chen\*, Austin Wang\*, Runzhe Yang\*, Karthik Narasimhan <br>
-    [paper](https://arxiv.org/abs/2307.08689) |
-    [repo](https://github.com/princeton-nlp/Collie) |
-    [tweet](https://twitter.com/ShunyuYao12/status/1681315647018663936) |
-    [project](https://collie-benchmark.github.io)
-   -->
-- **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback** <br>
-    John Yang, Akshara Prabhakar, Karthik Narasimhan, Shunyu Yao <br>
-    NeurIPS 2023 Datasets and Benchmarks Track <br>
-    [paper](https://arxiv.org/abs/2306.14898) |
-    [repo](https://github.com/princeton-nlp/intercode) |
-    [tweet](https://twitter.com/ShunyuYao12/status/1675903408727896066) |
-    [project](https://intercode-benchmark.github.io)
-  
-- **Reflexion: Language Agents with Verbal Reinforcement Learning** <br>
-    Noah Shinn, Federico Cassano, Beck Labash, Ashwin Gopinath, Karthik Narasimhan, Shunyu Yao <br>
-    NeurIPS 2023 <br>
-    [paper](https://arxiv.org/abs/2303.11366) |
-    [repo](https://github.com/noahshinn024/reflexion) |
-    [tweet](https://twitter.com/ShunyuYao12/status/1661875632387641345)
-
-- **Tree of Thoughts: Deliberate Problem Solving with Large Language Models** <br>
-    Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan <br>
-    NeurIPS 2023 (Oral) <br>
-    [paper](https://arxiv.org/abs/2305.10601) |
-    [repo](https://github.com/ysymyth/tree-of-thought-llm) |
-    [tweet](https://twitter.com/ShunyuYao12/status/1659357547474681857)
-    
-- **ReAct: Synergizing Reasoning and Acting in Language Models** <br>
-    Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao <br>
-    ICLR 2023 (Oral, top 5%) <br>
-    [paper](https://arxiv.org/abs/2210.03629) |
-    [repo](https://github.com/ysymyth/ReAct) |
-    [tweet](https://twitter.com/ShunyuYao12/status/1579475607402217472) |
-    [project](https://react-lm.github.io) |
-    [Google AI blogpost](https://ai.googleblog.com/2022/11/react-synergizing-reasoning-and-acting.html)
-    
-- **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents** <br>
-    Shunyu Yao\*, Howard Chen\*, John Yang, Karthik Narasimhan <br>
-    NeurIPS 2022 <br>
-    [paper](https://arxiv.org/abs/2207.01206) | 
-    [repo](https://github.com/princeton-nlp/WebShop) | 
-    [tweet](https://twitter.com/ShunyuYao12/status/1546220013186596864) |
-    [project](https://webshop-pnlp.github.io) | 
-    [demo](https://webshop-pnlp.github.io/#demo) |
-    [Quanta Magazine](https://www.quantamagazine.org/machines-learn-better-if-we-teach-them-the-basics-20230201/)
 
 <!-- - **TVShowGuess: Character Comprehension in Stories as Speaker Guessing** <br>
     Yisi Sang\*, Xiangyang Mou\*, Mo Yu\*, Shunyu Yao, Jing Li, Jeffrey Stanton <br>
@@ -200,19 +110,20 @@ In my life, I read, travel, rap, and play basketball.
     [project](http://3dsdn.csail.mit.edu) -->
 
 
-# Online talks
-- [Language Agents: From Next-Token Prediction to Digital Automation](https://www.youtube.com/watch?v=zwfE6J2BIR4)
-- [On Formulating and Evaluating Language Agents](https://www.youtube.com/watch?v=qmGu9okiICU) 
-- [从语言模型到语言智能体](https://www.bilibili.com/video/BV1ju4y1e7Em)
-- [Re-thinking Reinforcement Learning in the Era of Large Language Models](https://docs.google.com/presentation/d/1mlhFBRdzN3aXQ1kDCwxGFfnQdjnHr7Ou9DAhLk186Y0/edit?usp=sharing&resourcekey=0-MVtkY5wr6GD-Dm80Cvsruw)
+# News
+- [Momenta完成C轮超10亿美元融资](https://www.42how.com/article/4314)
+- [Making renewable power more viable for the grid](https://news.mit.edu/2017/air-breathing-battery-making-renewable-power-more-viable-grid-1011) 
+- [How some battery materials expand without cracking](https://news.mit.edu/2017/how-some-battery-materials-expand-without-cracking-0412)
+- [Reducing waste and inefficiency, while increasing access and profits, propels MIT Energy Hackathon](https://news.mit.edu/2015/mit-energy-hackathon-1211)
 
 
+<!--
 # Recent readings
 * The Double Helix (James Watson)
 * Lectures on General Relativity (David Tong)
 * What Babies Know (Elizabeth Spelke)
 * The Art of Doing Science and Engineering (Richard Hamming)
-
+-->
 
 <!--   
 * Advice for a Young Investigator (Santiago Cajal)
@@ -234,4 +145,4 @@ In my life, I read, travel, rap, and play basketball.
 <!-- * 西方语言学史 （姚小平）-->
 
 
-(last updated: Aug 2024)
+(last updated: Nov 2024)
