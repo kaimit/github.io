@@ -117,6 +117,7 @@ In my life, I read, travel, rap, and play basketball.
 - [Making renewable power more viable for the grid](https://news.mit.edu/2017/air-breathing-battery-making-renewable-power-more-viable-grid-1011) 
 - [How some battery materials expand without cracking](https://news.mit.edu/2017/how-some-battery-materials-expand-without-cracking-0412)
 - [Reducing waste and inefficiency, while increasing access and profits, propels MIT Energy Hackathon](https://news.mit.edu/2015/mit-energy-hackathon-1211)
+- [电能存储项目Sodium Energy获2012 MIT－CHIEF创业大赛大奖](https://bostonese.com/2012/11/%E7%94%B5%E8%83%BD%E5%AD%98%E5%82%A8%E9%A1%B9%E7%9B%AEsodium-energy%E8%8E%B72012-mit%EF%BC%8Dchief%E5%88%9B%E4%B8%9A%E5%A4%A7%E8%B5%9B%E5%A4%A7%E5%A5%96/)
 
 
 <!--
