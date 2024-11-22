@@ -33,20 +33,22 @@ In my life, I read, travel, rap, and play basketball.
 - Jul 2023: I wrote a [blog post](https://princeton-nlp.github.io/language-agent-impact/) with Karthik about opportunities and risks of language agents! Comment [here](https://twitter.com/ShunyuYao12/status/1683827766104408066).
 <!---- Apr 2023: I attended LangChain's Agent [webinar](https://www.youtube.com/watch?v=1gRlCjy18m4). Summary [here](https://twitter.com/jh_damm/status/1646233627661828109).   --> 
 
-# Selected papers
+# Selected Publications
+
+ - **Electrochemically-induced phase transition in olivine type cathode materials** <br>
+    Kai Xiang <br>
+    PhD thesis 2018 <br>
+    [paper](https://dspace.mit.edu/bitstream/handle/1721.1/115608/1036986492-MIT.pdf?sequence=1)  
 
 - **Mesoscopic phase transition kinetics in secondary particles of electrode-active materials in lithium-ion batteries** <br>
   Kai Xiang, Kaiqi Yang, W Craig Carter, Ming Tang, Yet-Ming Chiang <br>
-    [paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.osti.gov/pages/servlets/purl/1538994) 
+  Chemistry of Materials 2018 <br>
+    [paper](https://pubs.acs.org/doi/10.1021/acs.chemmater.7b05407) 
 
-
-
-<!-- - **TVShowGuess: Character Comprehension in Stories as Speaker Guessing** <br>
-    Yisi Sang\*, Xiangyang Mou\*, Mo Yu\*, Shunyu Yao, Jing Li, Jeffrey Stanton <br>
-    NAACL 2022 <br>
-    [paper](https://arxiv.org/abs/2204.07721)  | 
-    [code](https://github.com/YisiSang/TVSHOWGUESS)
- -->
+- **Accommodating High Transformation Strains in Battery Electrodes via the Formation of Nanoscale Intermediate Phases: Operando Investigation of Olivine NaFePO4** <br>
+  Kai Xiang, Wenting Xing, Dorthe B Ravnsbæk, Liang Hong, Ming Tang, Zheng Li, Kamila M Wiaderek, Olaf J Borkiewicz, Karena W Chapman, Peter J Chupas, Yet-Ming Chiang <br>
+  Nano Letters 2017 <br>
+    [paper](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b04971) 
 
 <!-- - **Linking Emergent and Natural Languages via Corpus Transfer** <br>
     Shunyu Yao, Mo Yu, Yang Zhang, Karthik Narasimhan, Joshua Tenenbaum, Chuang Gan <br>
