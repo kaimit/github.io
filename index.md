@@ -10,7 +10,7 @@ I am studying Generative AI from technology to applications.
 
 Previously, I was leading a team of engineers and PMs at Momenta.ai to build data infra and simulation for autonomous driving. Prior to Momenta.ai, I was a strategy consultant at ByteDance, spearheading the strategy for their cloud computing business. Before that, I was a venture capitalist at Xiang He Capital, focusing on AI and Infrastructure investments.
 
-I obtained my PhD from MIT advised by [Yet-Ming Chiang](https://dmse.mit.edu/faculty/yet-ming-chiang/) investigating phase transition mechanism of Lithium-ion batteries and my bachelor in Materials Science & Economics from Tsinghua University. 
+I obtained my PhD from MIT advised by Yet-Ming Chiang investigating phase transition mechanism of Lithium-ion batteries and my bachelor in Materials Science & Economics from Tsinghua University. 
 
 <!--Previously, I obtained my PhD from Princeton University advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/), and my bachelor's from Yao Class at Tsinghua University.
 -->
