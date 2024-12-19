@@ -6,14 +6,19 @@ permalink: /index.html
 
 <img style="float:right; padding-left:10px" src="images/self.jpeg" width="220" height="220">
 
-I am studying Generative AI from technology to applications. 
+I am studying Generative AI from technology to applications at ByteDance. 
 
-Previously, I was leading a team of engineers and PMs at Momenta.ai to build data infra and simulation for autonomous driving. Prior to Momenta.ai, I was a strategy consultant at ByteDance, spearheading the strategy for their cloud computing business. Before that, I was a venture capitalist at Xiang He Capital, focusing on AI and Infrastructure investments.
+Previously, I was leading a team of engineers and PMs at Momenta.ai to build data infra and simulation for autonomous driving. Whthin my 3 years tenure, we built the largest simulation platform in China in terms of scale from scratch.
+
+Prior to Momenta.ai, I was a strategy consultant at ByteDance, spearheading the strategy for their cloud computing business. 
+
+Before that, I was a venture capitalist at Xiang He Capital, focusing on AI and Infrastructure investments.
+
+I have also founded/co-founded various startups and organizations, including GGU Consulting, MIT CEO, MIT Energy Hackathon. 
 
 I obtained my PhD from MIT advised by Yet-Ming Chiang investigating phase transition mechanism of Lithium-ion batteries and my bachelor in Materials Science & Economics from Tsinghua University. 
 
-<!--Previously, I obtained my PhD from Princeton University advised by [Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/), and my bachelor's from Yao Class at Tsinghua University.
--->
+During my spare time, I like to run and ski. I am currently training for UTMB. 
 
 <!--
 In my work, I study agents.
@@ -111,6 +116,11 @@ In my life, I read, travel, rap, and play basketball.
     [code](https://github.com/ysymyth/3D-SDN) | 
     [project](http://3dsdn.csail.mit.edu) -->
 
+# Recent Writings
+{% for post in site.posts limit:5 %}
+- [{{ post.title }}]({{ post.url }}) <br>
+  {{ post.date | date: "%B %d, %Y" }}
+{% endfor %}
 
 # News
 - [Momenta完成C轮超10亿美元融资](https://www.42how.com/article/4314)
