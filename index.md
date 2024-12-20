@@ -4,7 +4,7 @@ title: About
 permalink: /index.html
 ---
 
-<img style="float:right; padding-left:10px" src="images/self.jpeg" width="220" height="220">
+<img style="float:right; padding-left:10px" src="images/self.jpeg" width="280" height="280">
 
 I am studying Generative AI from technology to applications at ByteDance. 
 
@@ -12,7 +12,7 @@ Previously, I was leading a team of engineers and PMs at Momenta.ai to build dat
 
 Prior to Momenta.ai, I was working on strategy & investment in AI and Infrastructure. I have also founded/co-founded various startups and organizations, including GGU Consulting, MIT CEO, MIT Energy Hackathon. 
 
-I obtained my PhD from MIT and my bachelors in Materials Science as well as Economics from Tsinghua University. 
+I obtained my PhD from MIT and my bachelors from Tsinghua University. 
 
 During my spare time, I like trail running and skiing. I am currently training for UTMB. 
 
@@ -158,4 +158,4 @@ In my life, I read, travel, rap, and play basketball.
 <!-- * 西方语言学史 （姚小平）-->
 
 
-(last updated: Nov 2024)
+(last updated: Dec 2024)
